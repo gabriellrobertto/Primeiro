@@ -16,6 +16,7 @@ namespace PrimeiroGit
 
          Console.WriteLine("Entre com outro valor: ");
          valor2 = double.Parse(Console.ReadLine());
+         resultado = valor1 + valor2;
 
         }
     }
